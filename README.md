@@ -1,16 +1,31 @@
-## Hi there 👋
+## Olá 👋, eu sou Thamyres Santos Silva
 
-<!--
-**Thamysis/thamysis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 Estudante de **Sistemas de Informação** na **USP — Campus São Carlos**  
+📍 São Carlos, SP — Brasil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔗 Contatos
+- ✉️ Email: thamyres.tss2468@gmail.com  
+- 🐙 GitHub: [Thamysis](https://github.com/Thamysis)  
+- 🔗 LinkedIn: [Thamyres Santos Silva](https://www.linkedin.com/in/thamyres-santos-silva)  
+
+---
+
+### 🛠️ Tecnologias e Habilidades
+**Front-end:** HTML5, CSS3, JavaScript, TypeScript, React, Bootstrap, Flutter
+**Back-end:** Node.js, Java, Go, Python, SQL  
+**Banco de dados:** MySQL, SQLite  
+**Ferramentas:** Git, GitHub, Figma, Jira, Notion, Postman  
+**Idiomas:** Português (fluente) • Inglês (intermediário) • Espanhol (básico)  
+
+---
+
+### 📂 Projetos em destaque
+- **[Indicador — Software de Gestão Financeira](https://indicador.app/)**  
+  Plataforma de gestão financeira para pequenas empresas. Liderei o **front-end** usando HTML, CSS, JavaScript e React.  
+
+---
+
+#### Visualizar portfólio
+Meu site está disponível em: [https://thamysis.github.io/](https://thamysis.github.io/)
